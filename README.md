@@ -121,3 +121,9 @@ Each operation’s result is printed to the console using $display, helping user
 Conclusion
 
 In summary, this Verilog testbench demonstrates how to simulate and verify a digital circuit, specifically an ALU. It uses simulation tools to drive inputs and monitor outputs for correctness. The ALU performs various arithmetic and logical operations depending on the op code. The testbench is an essential part of hardware design verification, and tools like Icarus Verilog, GTKWave, Vivado, and ModelSim make simulation and debugging accessible and efficient. This kind of test-driven development ensures that digital circuits behave as expected before deploying them to real hardware like FPGAs or ASICs.
+
+
+#OUTPUT
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1f2c4901-d612-4ba9-a058-3e9c24b8483a" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fc7dfcb1-b6d1-482d-9216-4b5118cb682b" />
